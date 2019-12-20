@@ -1,0 +1,9 @@
+{
+    "id" : "TutorialEventsInteractions",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "TutorialEventsInteractions",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}

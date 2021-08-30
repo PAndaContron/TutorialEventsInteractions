@@ -16,7 +16,7 @@
 
 package org.terasology.tutorialEventsInteractions.components;
 
-import org.terasology.entitySystem.Component;
+import org.terasology.engine.entitySystem.Component;
 
 /**
  * Empty marker component

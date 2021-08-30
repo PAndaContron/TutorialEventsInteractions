@@ -16,10 +16,10 @@
 
 package org.terasology.tutorialEventsInteractions.components;
 
-import org.terasology.engine.entitySystem.Component;
+import org.terasology.gestalt.entitysystem.component.EmptyComponent;
 
 /**
  * Empty marker component
  */
-public class ConsoleComponent implements Component {
+public class ConsoleComponent extends EmptyComponent<ConsoleComponent> {
 }

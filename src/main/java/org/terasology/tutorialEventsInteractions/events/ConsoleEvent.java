@@ -16,7 +16,7 @@
 
 package org.terasology.tutorialEventsInteractions.events;
 
-import org.terasology.entitySystem.event.Event;
+import org.terasology.engine.entitySystem.event.Event;
 
 /**
  * Event which triggers a message to be printed to the console.
